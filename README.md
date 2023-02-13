@@ -1,2 +1,2 @@
-# registrationForm.github.io
+# registration.github.io
 
